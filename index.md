@@ -62,13 +62,11 @@ accesso controllato secondo le misure di sicurezza citate:
     amministrazione, collegio dei garanti, collegio dei revisori dei conti).
     Nel caso in cui, in fase di stesura o anche di successiva segnalazione,
     si rilevi la presenza di dati riguardanti
-
         1.  lo stato di salute o la vita sessuale;
         2.  l'origine razziale ed etnica, le convinzioni religiose, filosofiche
             o di altro genere, le opinioni politiche, l'adesione a partiti,
             sindacati, associazioni od organizzazioni a carattere religioso,
             filosofico, politico o sindacale.
-
     i rispettivi passaggi sono sostituiti da *omissis*. Il verbale in forma
     integrale è comunque conservato (autorizzazione, punto 4, ultimo
     capoverso) e passa in categoria 4 (caso 2.1.1) o categoria 3 (caso
@@ -79,11 +77,9 @@ accesso controllato secondo le misure di sicurezza citate:
     ragioni di opportunità politica o economica. Per esempio è vietato
     conferire incarichi o competenze economiche con la condizione che
     l'identità del beneficiario non sia conoscibile ai soci.
-
 1. Dati sintetici ma completi dei flussi di cassa, ovvero una tabella
     annuale ad opera del tesoriere e approvata dal collegio dei revisori dei
     conti, che contenga per ogni entrata o uscita:
-
         -   data del trasferimento
         -   un dato identificativo del soggetto in rapporto economico con
             l'associazione (nome e cognome per le persone fisiche, o
@@ -92,22 +88,16 @@ accesso controllato secondo le misure di sicurezza citate:
             ricerca", "quota associativa", "donazione", "fondi fare ricerca");
         -   per le uscite, un riferimento alla delibera dell'organo associativo
             che le ha autorizzate (per esempio: "cda 14-11-2017").
-
     cio è particolarmente rilevante in quanto i bilanci aggregati approvati
     in sede di assemblea rappresentano una visione troppo grossolana delle
     entrate e delle uscite prodotte dall'associazione, e non consentono
     alcuna attività di controllo indipendente in capo ai soci.
-
 1. Adesione a registri comunali, provinciali, regionali, agenzia delle
     entrate;
-
 1. relazioni annuali;
-
 1. progetti presentati dall'associazione;
-
 1. convenzioni, contratti, accordi di cooperazione o partenariato
     dell'associazione con enti pubblici o privati;
-
 1. elenco dei soci.
 
 # Materiale riservato e comunicabile su richiesta

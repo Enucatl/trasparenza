@@ -59,39 +59,39 @@ Sono comunicati ai soci, che si identifichino su un apposito portale ad
 accesso controllato secondo le misure di sicurezza citate:
 
 1. Verbali di tutti gli organi sociali (assemblea, consigli di
-amministrazione, collegio dei garanti, collegio dei revisori dei conti).
-Nel caso in cui, in fase di stesura o anche di successiva segnalazione,
-si rilevi la presenza di dati riguardanti
+    amministrazione, collegio dei garanti, collegio dei revisori dei conti).
+    Nel caso in cui, in fase di stesura o anche di successiva segnalazione,
+    si rilevi la presenza di dati riguardanti
 
-    1.  lo stato di salute o la vita sessuale;
-    2.  l'origine razziale ed etnica, le convinzioni religiose, filosofiche
-        o di altro genere, le opinioni politiche, l'adesione a partiti,
-        sindacati, associazioni od organizzazioni a carattere religioso,
-        filosofico, politico o sindacale.
+        1.  lo stato di salute o la vita sessuale;
+        2.  l'origine razziale ed etnica, le convinzioni religiose, filosofiche
+            o di altro genere, le opinioni politiche, l'adesione a partiti,
+            sindacati, associazioni od organizzazioni a carattere religioso,
+            filosofico, politico o sindacale.
 
-2. i rispettivi passaggi sono sostituiti da *omissis*. Il verbale in forma
-integrale è comunque conservato (autorizzazione, punto 4, ultimo
-capoverso) e passa in categoria 4 (caso 2.1.1) o categoria 3 (caso
-2.1.2). Tuttavia, non è possibile impedire ai soci l'accesso a
-informazioni contenute nei verbali da parte dell'organo sociale
-coinvolto per ragioni diverse da quelle della protezione dei dati
-personali, e in particolare non è possibile omettere passaggi per
-ragioni di opportunità politica o economica. Per esempio è vietato
-conferire incarichi o competenze economiche con la condizione che
-l'identità del beneficiario non sia conoscibile ai soci.
+    i rispettivi passaggi sono sostituiti da *omissis*. Il verbale in forma
+    integrale è comunque conservato (autorizzazione, punto 4, ultimo
+    capoverso) e passa in categoria 4 (caso 2.1.1) o categoria 3 (caso
+    2.1.2). Tuttavia, non è possibile impedire ai soci l'accesso a
+    informazioni contenute nei verbali da parte dell'organo sociale
+    coinvolto per ragioni diverse da quelle della protezione dei dati
+    personali, e in particolare non è possibile omettere passaggi per
+    ragioni di opportunità politica o economica. Per esempio è vietato
+    conferire incarichi o competenze economiche con la condizione che
+    l'identità del beneficiario non sia conoscibile ai soci.
 
-3. Dati sintetici ma completi dei flussi di cassa, ovvero una tabella
-annuale ad opera del tesoriere e approvata dal collegio dei revisori dei
-conti, che contenga per ogni entrata o uscita:
+1. Dati sintetici ma completi dei flussi di cassa, ovvero una tabella
+    annuale ad opera del tesoriere e approvata dal collegio dei revisori dei
+    conti, che contenga per ogni entrata o uscita:
 
-    -   data del trasferimento
-    -   un dato identificativo del soggetto in rapporto economico con
-        l'associazione (nome e cognome per le persone fisiche, o
-        denominazione dell'ente per le persone giuridiche);
-    -   una sintetica descrizione (per esempio: "rimborso attività fare
-        ricerca", "quota associativa", "donazione", "fondi fare ricerca");
-    -   per le uscite, un riferimento alla delibera dell'organo associativo
-        che le ha autorizzate (per esempio: "cda 14-11-2017").
+        -   data del trasferimento
+        -   un dato identificativo del soggetto in rapporto economico con
+            l'associazione (nome e cognome per le persone fisiche, o
+            denominazione dell'ente per le persone giuridiche);
+        -   una sintetica descrizione (per esempio: "rimborso attività fare
+            ricerca", "quota associativa", "donazione", "fondi fare ricerca");
+        -   per le uscite, un riferimento alla delibera dell'organo associativo
+            che le ha autorizzate (per esempio: "cda 14-11-2017").
 
     cio è particolarmente rilevante in quanto i bilanci aggregati approvati
     in sede di assemblea rappresentano una visione troppo grossolana delle
@@ -99,14 +99,14 @@ conti, che contenga per ogni entrata o uscita:
     alcuna attività di controllo indipendente in capo ai soci.
 
 1. Adesione a registri comunali, provinciali, regionali, agenzia delle
-entrate;
+    entrate;
 
 1. relazioni annuali;
 
 1. progetti presentati dall'associazione;
 
 1. convenzioni, contratti, accordi di cooperazione o partenariato
-dell'associazione con enti pubblici o privati;
+    dell'associazione con enti pubblici o privati;
 
 1. elenco dei soci.
 

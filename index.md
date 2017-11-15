@@ -93,10 +93,10 @@ conti, che contenga per ogni entrata o uscita:
     -   per le uscite, un riferimento alla delibera dell'organo associativo
         che le ha autorizzate (per esempio: "cda 14-11-2017").
 
-cio è particolarmente rilevante in quanto i bilanci aggregati approvati
-in sede di assemblea rappresentano una visione troppo grossolana delle
-entrate e delle uscite prodotte dall'associazione, e non consentono
-alcuna attività di controllo indipendente in capo ai soci.
+    cio è particolarmente rilevante in quanto i bilanci aggregati approvati
+    in sede di assemblea rappresentano una visione troppo grossolana delle
+    entrate e delle uscite prodotte dall'associazione, e non consentono
+    alcuna attività di controllo indipendente in capo ai soci.
 
 1. Adesione a registri comunali, provinciali, regionali, agenzia delle
 entrate;

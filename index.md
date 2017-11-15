@@ -45,14 +45,14 @@ possesso dell'associazione, la seguente organizzazione:
     garanti;
 4.  materiale non comunicabile.
 
-Materiale di dominio pubblico {#materiale-di-dominio-pubblico}
+Materiale di dominio pubblico
 --------------------------------
 
 Sono di dominio pubblico lo statuto, i regolamenti di tutti gli organi
 associativi, e i documenti di proprietà intellettuale dell'associazione
 rilasciati nel dominio pubblico.
 
-Materiale comunicato ai soci {#materiale-comunicato-ai-soci}
+Materiale comunicato ai soci
 -------------------------------
 
 Sono comunicati ai soci, che si identifichino su un apposito portale ad
@@ -110,7 +110,7 @@ dell'associazione con enti pubblici o privati;
 
 1. elenco dei soci.
 
-Materiale riservato e comunicabile su richiesta {#materiale-riservato-e-comunicabile-su-richiesta}
+Materiale riservato e comunicabile su richiesta
 --------------------------------------------------
 
 In osservanza al principio di non eccedenza e indispensabilità della
@@ -127,7 +127,7 @@ La richiesta presentata dal segretario per conto del socio in occasione
 del primo consiglio di amministrazione utile è deliberata dal consiglio
 di amministrazione ed appellabile presso il collegio dei garanti.
 
-Materiale non comunicabile {#materiale-non-comunicabile}
+Materiale non comunicabile
 -----------------------------
 
 Questo materiale è disponibile solo ai membri degli organi associativi,

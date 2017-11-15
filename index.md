@@ -58,7 +58,7 @@ rilasciati nel dominio pubblico.
 Sono comunicati ai soci, che si identifichino su un apposito portale ad
 accesso controllato secondo le misure di sicurezza citate:
 
-1. Verbali di tutti gli organi sociali (assemblea, consigli di
+1.  verbali di tutti gli organi sociali (assemblea, consigli di
     amministrazione, collegio dei garanti, collegio dei revisori dei conti).
     Nel caso in cui, in fase di stesura o anche di successiva segnalazione,
     si rilevi la presenza di dati riguardanti
@@ -67,6 +67,7 @@ accesso controllato secondo le misure di sicurezza citate:
             o di altro genere, le opinioni politiche, l'adesione a partiti,
             sindacati, associazioni od organizzazioni a carattere religioso,
             filosofico, politico o sindacale.
+
     i rispettivi passaggi sono sostituiti da *omissis*. Il verbale in forma
     integrale è comunque conservato (autorizzazione, punto 4, ultimo
     capoverso) e passa in categoria 4 (caso 2.1.1) o categoria 3 (caso
@@ -77,10 +78,11 @@ accesso controllato secondo le misure di sicurezza citate:
     ragioni di opportunità politica o economica. Per esempio è vietato
     conferire incarichi o competenze economiche con la condizione che
     l'identità del beneficiario non sia conoscibile ai soci.
-1. Dati sintetici ma completi dei flussi di cassa, ovvero una tabella
+
+1.  Dati sintetici ma completi dei flussi di cassa, ovvero una tabella
     annuale ad opera del tesoriere e approvata dal collegio dei revisori dei
     conti, che contenga per ogni entrata o uscita:
-        -   data del trasferimento
+        -   data del trasferimento;
         -   un dato identificativo del soggetto in rapporto economico con
             l'associazione (nome e cognome per le persone fisiche, o
             denominazione dell'ente per le persone giuridiche);
@@ -88,17 +90,18 @@ accesso controllato secondo le misure di sicurezza citate:
             ricerca", "quota associativa", "donazione", "fondi fare ricerca");
         -   per le uscite, un riferimento alla delibera dell'organo associativo
             che le ha autorizzate (per esempio: "cda 14-11-2017").
+
     cio è particolarmente rilevante in quanto i bilanci aggregati approvati
     in sede di assemblea rappresentano una visione troppo grossolana delle
     entrate e delle uscite prodotte dall'associazione, e non consentono
     alcuna attività di controllo indipendente in capo ai soci.
-1. Adesione a registri comunali, provinciali, regionali, agenzia delle
-    entrate;
-1. relazioni annuali;
-1. progetti presentati dall'associazione;
-1. convenzioni, contratti, accordi di cooperazione o partenariato
-    dell'associazione con enti pubblici o privati;
-1. elenco dei soci.
+1.  Adesione a registri comunali, provinciali, regionali, agenzia delle
+        entrate;
+1.  relazioni annuali;
+1.  progetti presentati dall'associazione;
+1.  convenzioni, contratti, accordi di cooperazione o partenariato dell'associazione con enti pubblici o privati;
+1.  elenco dei soci.
+
 
 # Materiale riservato e comunicabile su richiesta
 
@@ -107,14 +110,15 @@ comunicazione ai soci rispetto al loro diritto di controllo delle
 attività associative, si ritiene che non sia necessario rendere
 immediatamente consultabili:
 
-1.  Contratti stipulati tra l’Associazione e singole persone fisiche per
+1.  contratti stipulati tra l’Associazione e singole persone fisiche per
     prestazioni d’opera, collaborazioni o altra natura;
-2.  Tagliandi, fatture, giustificativi di spesa;
-3.  Verbali senza *omissis* posti nel caso descritto al 2.1.2.
+2.  tagliandi, fatture, giustificativi di spesa;
+3.  verbali senza *omissis* posti nel caso descritto al 2.1.2.
 
 La richiesta presentata dal segretario per conto del socio in occasione
 del primo consiglio di amministrazione utile è deliberata dal consiglio
-di amministrazione ed appellabile presso il collegio dei garanti.
+di amministrazione. Una decisione di non comunicabilità dell'atto è
+appellabile presso il collegio dei garanti.
 
 # Materiale non comunicabile
 

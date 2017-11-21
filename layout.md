@@ -1,2 +1,1 @@
-header.tex
 index.tex
